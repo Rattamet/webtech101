@@ -8,9 +8,10 @@
         <h1>สวัสดีค้าบบบบบ
         วันนี้มาเรียนเว็บรอบที่3แล้วค้าบบบบ
         </h1>
-        <h2>The href Attribute</h2>
+        <h2>Webtech for DS</h2>
 
-<p>HTML links are defined with the a tag. The link address is specified in the href attribute:</p>
+<p>หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาวิทยาการข้อมูล <br>
+Bachelor of Science Program in Data Science</p>
 
 <a href="https://cp.su.ac.th/curricula/Bachelor-of-Science-Program-in-Data-Science">Visit DSSU let's gooo</a>
     </body>
